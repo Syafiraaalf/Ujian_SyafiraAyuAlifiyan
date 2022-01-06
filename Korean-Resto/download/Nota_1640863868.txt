@@ -1,0 +1,21 @@
+@l!x0
+Toko      : KOREAN RESTO                
+Alamat    : Jl. NCTzen no 1             
+No. Telp  : 0822-4857-7297              
+
+No. Order : 18
+Tanggal   : 30-12-2021
+Kasir     : baesuzy
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+BASIC RAMYEON       20,000   1    20,000
+KOREAN AIR MINERAL   5,000   2    10,000
+
+                   Sub Total :    30,000
+                      Diskon :         0
+                       TOTAL :    30,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

@@ -1,0 +1,21 @@
+@l!x0
+Toko      : KOREAN RESTO                
+Alamat    : Jl. NCTzen no 1             
+No. Telp  : 0822-4857-7297              
+
+No. Order : 15
+Tanggal   : 28-12-2021
+Kasir     : baesuzy
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+MIE GORENG SEAFOOD  13,000   1    13,000
+ES SUSU COKELAT     10,000   1    10,000
+
+                   Sub Total :    23,000
+                      Diskon :         0
+                       TOTAL :    23,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

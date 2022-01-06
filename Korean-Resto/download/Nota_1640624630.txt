@@ -1,0 +1,20 @@
+@l!x0
+Toko      : RESTO                       
+Alamat    : Jl. Ki Hajar Dewantara Amban
+No. Telp  : 0822-4857-7297              
+
+No. Order : 13
+Tanggal   : 28-12-2021
+Kasir     : baesuzy
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+ES TEH LEMON         5,000   6    30,000
+
+                   Sub Total :    30,000
+                      Diskon :         0
+                       TOTAL :    30,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+

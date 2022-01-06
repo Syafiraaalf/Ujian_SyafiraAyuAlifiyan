@@ -1,0 +1,22 @@
+@l!x0
+Toko      : KOREAN RESTO                
+Alamat    : Jl. NCTzen no 1             
+No. Telp  : 0822-4857-7297              
+
+No. Order : 20
+Tanggal   : 30-12-2021
+Kasir     : Jisoo
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+SWEET AND SPICY ME  15,000   1    15,000
+JAPCHAE             15,000   1    15,000
+KOREAN AIR MINERAL   5,000   1     5,000
+
+                   Sub Total :    35,000
+                      Diskon :         0
+                       TOTAL :    35,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+
